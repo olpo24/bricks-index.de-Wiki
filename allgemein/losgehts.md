@@ -12,6 +12,7 @@ Logge dich dazu unter [[GitHub Page](https://my.bricksbuilder.io)s]([https://pag
 ![Bricks Account](/_images/bricks_account.jpeg "Bricks Login")
 
 ## Installation
+>[!NOTE]
 > Hinweis: Bricks ist ein Theme!
 
 Logge dich in den Administrationsbereich deiner WordPress Installation ein und wechsel zu „Design -> Themes“.
